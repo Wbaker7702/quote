@@ -19,7 +19,15 @@ func Glass() string {
 }
 
 // Go returns a Go proverb.
-func Go() string {
+func Go(package main
+
+import "fmt"
+
+import "rsc.io/quote"
+
+func main() {
+    fmt.Println(quote.Go())
+}) string {
 	return "Don't communicate by sharing memory, share memory by communicating."
 }
 
